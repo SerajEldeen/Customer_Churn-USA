@@ -41,3 +41,7 @@ This project presents a comprehensive analysis of customer churn, exploring who 
 ### Churn Reason
 
 ![Churn Reason](./assets/4.png)
+
+## Report Link
+
+[View Full Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYzQ3ZDcyYWMtOGNmOC00Yzg2LWEwNzYtMDU5ZjViY2QwYWExIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9&embedImagePlaceholder=true)
